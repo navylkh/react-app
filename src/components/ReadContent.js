@@ -1,6 +1,6 @@
 import React, { Component } from 'react';  // Component 를 사용하기 위해
 
-class Content extends Component {
+class ReadContent extends Component {
     render() {
       //this.props.title = 'hi';
       // 컴포넌트 내에서 props 값을 변경할 수 없다.
@@ -14,5 +14,5 @@ class Content extends Component {
     }
   }
 
-export default Content;
+export default ReadContent;
   
